@@ -2,6 +2,8 @@
 
 ![hr analytics dashboard](https://github.com/Gilbeast/HR-Analytics/assets/112081867/2442f07c-ac70-4802-9364-9b8d0075af11)
 
+
+---
 ### Table of Contetnts
 
 - [Data-Used](Data-used)
